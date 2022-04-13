@@ -1,6 +1,0 @@
-[submodule "submodule-app"]
-	path = submodule-app
-	url = https://github.com/antonio9520/submodule-app
-[submodule "src/submodule-app"]
-	path = src/submodule-app
-	url = https://github.com/antonio9520/submodule-app
